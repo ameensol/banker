@@ -1,5 +1,5 @@
-const spank = require('./spank_p18.js')
-const weth = require('./weth_p18.js')
+const spank = require('./spank_p20.js')
+const weth = require('./weth_p20.js')
 
 /*
 {
